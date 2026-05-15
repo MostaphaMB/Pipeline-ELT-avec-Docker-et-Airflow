@@ -1,0 +1,6 @@
+venv/
+.env
+test.ipynb
+verify_ID.ipynb
+data/
+.gitignore
